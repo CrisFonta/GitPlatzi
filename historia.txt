@@ -1,2 +1,3 @@
-Prueba de proyecto v1 con git 
+Prueba de proyecto v2 con git 
 y visual studio code
+Esto es facil
