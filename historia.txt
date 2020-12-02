@@ -1,7 +1,2 @@
-Prueba de proyecto v2 con git 
+Prueba de proyecto v1 con git 
 y visual studio code
-Esto es facil
-
-Más lineas por los loles
-
-más o qué?
